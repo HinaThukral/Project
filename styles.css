@@ -1,0 +1,24 @@
+ body{
+      background-color:aquamarine;
+      }
+      h1{
+          text-align: center;
+          font-family: sans-serif;
+          background-color: white;
+             }
+      input{
+          margin-bottom: 1rem;
+      }
+      strike{
+          cursor: pointer;
+      }
+      li{
+          color: black;
+          background-color: aliceblue;
+      }
+      ul{
+          list-style-type: disc;
+      }
+      .remove{
+           color: red;
+      }
