@@ -31,7 +31,4 @@ Remove-
  Use Addeventlistener to call them,
  
  
- 
- 
- I have done this assignment by taking the help of the internet
- Thank you,
+
